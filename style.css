@@ -41,10 +41,21 @@ h1{
     font-weight: 400;
 }
 
-#learnMore{
+#github{
     width: 200px;
     height: 40px;
-    background-color: #FAE12C;
+    background-color: #ffffff;
+    border-style: none;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+#linkedin{
+    width: 200px;
+    height: 40px;
+    background-color: #ffffff;
     border-style: none;
     border-radius: 5px 5px 5px 5px;
     cursor: pointer;
