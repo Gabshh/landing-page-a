@@ -13,4 +13,4 @@ O site pode ser acessado pelo link:
 * CSS3
 
 ## Screenshot
-![](capturar.png)
+![](Capturar.png)
