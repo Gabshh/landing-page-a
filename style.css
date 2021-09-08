@@ -41,25 +41,31 @@ h1{
     font-weight: 400;
 }
 
-#github{
+.botoes a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 200px;
     height: 40px;
     background-color: #ffffff;
     border-style: none;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 5px;
     cursor: pointer;
     margin-top: 20px;
+    margin-left: 10px;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    text-decoration: none;
+    color: #000000;
 }
-#linkedin{
-    width: 200px;
-    height: 40px;
-    background-color: #ffffff;
-    border-style: none;
-    border-radius: 5px 5px 5px 5px;
-    cursor: pointer;
-    margin-top: 20px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+
+.botoes a:visited{
+    text-decoration: none;
+    color: #000000;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    border-top: #FFFFFF solid 2px;
 }
